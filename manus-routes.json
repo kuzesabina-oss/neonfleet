@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "path": "/", "title": "Neon Fleet — Морской бой" },
+    { "path": "/#home", "title": "Главная" },
+    { "path": "/#levels", "title": "Уровни" },
+    { "path": "/#setup", "title": "Расстановка флота" },
+    { "path": "/#battle", "title": "Бой" },
+    { "path": "/#result", "title": "Результат" },
+    { "path": "/#shop", "title": "Магазин" },
+    { "path": "/#account", "title": "Аккаунт" }
+  ]
+}

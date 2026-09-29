@@ -1,0 +1,14 @@
+{
+  "name": "neonfleet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Neon Fleet — multiplayer Battleship web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check script.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.14.1"
+  }
+}
